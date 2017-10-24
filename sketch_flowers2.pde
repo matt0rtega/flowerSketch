@@ -7,7 +7,7 @@ VideoExport videoExport;
 ColorHarmony colorHarmony = new ColorHarmony(this);
 
 PVector[] points;
-color [] colors;
+color [] colors; 
 
 PImage img;
 
